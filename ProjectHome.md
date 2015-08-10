@@ -1,0 +1,3 @@
+Democracy bubbles allows you to visualise the opinion landscape of any issue by using bubbles to represent the people or groups for or against it.  To see an example of democracy bubbles in action have a look <a href='http://www.whosupportsnhsreforms.org.uk'>here</a>.
+
+More information coming soon...
